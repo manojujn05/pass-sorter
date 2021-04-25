@@ -1,0 +1,16 @@
+{
+    "name": "krm/pass-sorter",
+    "description": "pass sorter",
+    "require": {
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
