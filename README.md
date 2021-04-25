@@ -1,6 +1,6 @@
 # pass-sorter
 
-In order to run the follow the given steps :
+In order to run the code , please follow the given steps :
 
 ```
 1= Clone the git repository
