@@ -1,6 +1,8 @@
 # pass-sorter
 
 In order to run the code , please follow the given steps :
+To change the destination, arrival and means of transport , please update the index.php
+When you run this script , you will be able to see the json response in the browser/postman.
 
 ```
 1= Clone the git repository

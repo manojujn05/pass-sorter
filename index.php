@@ -53,4 +53,4 @@ $trip->sort();
 
 // Display
 
-print_r($trip->tripString());
+echo ($trip->tripString());
