@@ -2,10 +2,12 @@
 
 In order to run the follow the given steps :
 
+```
 1= Clone the git repository
 2= Change directory by command >> cd pass_sorter <<
 3= Run command >> composer install <<
 4= Open the link on your local machine http://localhost/pass_sorter/
+```
 
 ## Installation
 
@@ -18,5 +20,5 @@ composer install
 ## Run
 
 ```
-
+http://localhost/pass_sorter/
 ```
